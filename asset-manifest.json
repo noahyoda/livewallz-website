@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/livewallz-website/static/css/main.5329f076.css",
-    "main.js": "/livewallz-website/static/js/main.5a0b5828.js",
+    "main.css": "/livewallz-website/static/css/main.dda9c471.css",
+    "main.js": "/livewallz-website/static/js/main.d3c3fbab.js",
     "static/js/453.d907da22.chunk.js": "/livewallz-website/static/js/453.d907da22.chunk.js",
-    "static/media/logo.svg": "/livewallz-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/livewallz-website/index.html",
-    "main.5329f076.css.map": "/livewallz-website/static/css/main.5329f076.css.map",
-    "main.5a0b5828.js.map": "/livewallz-website/static/js/main.5a0b5828.js.map",
+    "main.dda9c471.css.map": "/livewallz-website/static/css/main.dda9c471.css.map",
+    "main.d3c3fbab.js.map": "/livewallz-website/static/js/main.d3c3fbab.js.map",
     "453.d907da22.chunk.js.map": "/livewallz-website/static/js/453.d907da22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5329f076.css",
-    "static/js/main.5a0b5828.js"
+    "static/css/main.dda9c471.css",
+    "static/js/main.d3c3fbab.js"
   ]
 }
