@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/livewallz-website/static/css/main.dda9c471.css",
-    "main.js": "/livewallz-website/static/js/main.d3c3fbab.js",
+    "main.js": "/livewallz-website/static/js/main.84a4fbd9.js",
     "static/js/453.d907da22.chunk.js": "/livewallz-website/static/js/453.d907da22.chunk.js",
     "index.html": "/livewallz-website/index.html",
     "main.dda9c471.css.map": "/livewallz-website/static/css/main.dda9c471.css.map",
-    "main.d3c3fbab.js.map": "/livewallz-website/static/js/main.d3c3fbab.js.map",
+    "main.84a4fbd9.js.map": "/livewallz-website/static/js/main.84a4fbd9.js.map",
     "453.d907da22.chunk.js.map": "/livewallz-website/static/js/453.d907da22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dda9c471.css",
-    "static/js/main.d3c3fbab.js"
+    "static/js/main.84a4fbd9.js"
   ]
 }
