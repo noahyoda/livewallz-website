@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/livewallz-website/static/css/main.77201e9d.css",
-    "main.js": "/livewallz-website/static/js/main.f112b93b.js",
+    "main.css": "/livewallz-website/static/css/main.8e2f7735.css",
+    "main.js": "/livewallz-website/static/js/main.8a9a518c.js",
     "static/js/453.d907da22.chunk.js": "/livewallz-website/static/js/453.d907da22.chunk.js",
     "static/media/ic_wallpaper.png": "/livewallz-website/static/media/ic_wallpaper.365cf6fca43c5d282f25.png",
     "static/media/Jaussi047.jpg": "/livewallz-website/static/media/Jaussi047.2cb9d4d538966191d6a2.jpg",
@@ -9,12 +9,12 @@
     "static/media/cameron.jpg": "/livewallz-website/static/media/cameron.52c356896600dab6eb75.jpg",
     "static/media/jo.jpg": "/livewallz-website/static/media/jo.c3cbbd1de6e1b9d21b93.jpg",
     "index.html": "/livewallz-website/index.html",
-    "main.77201e9d.css.map": "/livewallz-website/static/css/main.77201e9d.css.map",
-    "main.f112b93b.js.map": "/livewallz-website/static/js/main.f112b93b.js.map",
+    "main.8e2f7735.css.map": "/livewallz-website/static/css/main.8e2f7735.css.map",
+    "main.8a9a518c.js.map": "/livewallz-website/static/js/main.8a9a518c.js.map",
     "453.d907da22.chunk.js.map": "/livewallz-website/static/js/453.d907da22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77201e9d.css",
-    "static/js/main.f112b93b.js"
+    "static/css/main.8e2f7735.css",
+    "static/js/main.8a9a518c.js"
   ]
 }
