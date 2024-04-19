@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/livewallz-website/static/css/main.b5e6398c.css",
-    "main.js": "/livewallz-website/static/js/main.d111e962.js",
+    "main.css": "/livewallz-website/static/css/main.eb21d5d2.css",
+    "main.js": "/livewallz-website/static/js/main.e83d7528.js",
     "static/js/453.d907da22.chunk.js": "/livewallz-website/static/js/453.d907da22.chunk.js",
     "static/media/ic_wallpaper.png": "/livewallz-website/static/media/ic_wallpaper.365cf6fca43c5d282f25.png",
+    "static/media/PreviewSync.jpg": "/livewallz-website/static/media/PreviewSync.89292ce99dc483b1b1b3.jpg",
+    "static/media/Preview_Visualization_Type.jpg": "/livewallz-website/static/media/Preview_Visualization_Type.247f30dda439f793843e.jpg",
     "static/media/Jaussi047.jpg": "/livewallz-website/static/media/Jaussi047.2cb9d4d538966191d6a2.jpg",
+    "static/media/ProfileCreateWallpaper.jpg": "/livewallz-website/static/media/ProfileCreateWallpaper.325b7521aeaad2801fba.jpg",
+    "static/media/UI_Control_Preview.jpg": "/livewallz-website/static/media/UI_Control_Preview.835276f3d938f7d7a68e.jpg",
+    "static/media/ProfileLogin.jpg": "/livewallz-website/static/media/ProfileLogin.4c3a413f0f3ccc52206b.jpg",
+    "static/media/ChangeProfilePic.jpg": "/livewallz-website/static/media/ChangeProfilePic.b64833a35e93e99ff099.jpg",
+    "static/media/ActivateWallpaperExplore.jpg": "/livewallz-website/static/media/ActivateWallpaperExplore.f329f7f2f8ab43766713.jpg",
+    "static/media/ExplorePage1.jpg": "/livewallz-website/static/media/ExplorePage1.24fc9f90511789989cfc.jpg",
+    "static/media/ExplorePageMenu.jpg": "/livewallz-website/static/media/ExplorePageMenu.c11a2a8c017fc630d778.jpg",
+    "static/media/Help.jpg": "/livewallz-website/static/media/Help.05ab5cc998c4b21b9a95.jpg",
     "static/media/imanuel.png": "/livewallz-website/static/media/imanuel.60167726100ba18f46b6.png",
     "static/media/cameron.jpg": "/livewallz-website/static/media/cameron.52c356896600dab6eb75.jpg",
     "static/media/jo.jpg": "/livewallz-website/static/media/jo.c3cbbd1de6e1b9d21b93.jpg",
     "index.html": "/livewallz-website/index.html",
-    "main.b5e6398c.css.map": "/livewallz-website/static/css/main.b5e6398c.css.map",
-    "main.d111e962.js.map": "/livewallz-website/static/js/main.d111e962.js.map",
+    "main.eb21d5d2.css.map": "/livewallz-website/static/css/main.eb21d5d2.css.map",
+    "main.e83d7528.js.map": "/livewallz-website/static/js/main.e83d7528.js.map",
     "453.d907da22.chunk.js.map": "/livewallz-website/static/js/453.d907da22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5e6398c.css",
-    "static/js/main.d111e962.js"
+    "static/css/main.eb21d5d2.css",
+    "static/js/main.e83d7528.js"
   ]
 }
