@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livewallz-website/static/css/main.8e2f7735.css",
-    "main.js": "/livewallz-website/static/js/main.8a9a518c.js",
+    "main.js": "/livewallz-website/static/js/main.d111e962.js",
     "static/js/453.d907da22.chunk.js": "/livewallz-website/static/js/453.d907da22.chunk.js",
     "static/media/ic_wallpaper.png": "/livewallz-website/static/media/ic_wallpaper.365cf6fca43c5d282f25.png",
     "static/media/Jaussi047.jpg": "/livewallz-website/static/media/Jaussi047.2cb9d4d538966191d6a2.jpg",
@@ -10,11 +10,11 @@
     "static/media/jo.jpg": "/livewallz-website/static/media/jo.c3cbbd1de6e1b9d21b93.jpg",
     "index.html": "/livewallz-website/index.html",
     "main.8e2f7735.css.map": "/livewallz-website/static/css/main.8e2f7735.css.map",
-    "main.8a9a518c.js.map": "/livewallz-website/static/js/main.8a9a518c.js.map",
+    "main.d111e962.js.map": "/livewallz-website/static/js/main.d111e962.js.map",
     "453.d907da22.chunk.js.map": "/livewallz-website/static/js/453.d907da22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e2f7735.css",
-    "static/js/main.8a9a518c.js"
+    "static/js/main.d111e962.js"
   ]
 }
