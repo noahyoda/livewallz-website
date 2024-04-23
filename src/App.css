@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,11 +17,165 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  overflow:auto;
+}
+
+.About {
+
+}
+
+.About-Demo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.About-Title {
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.About-Logo {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  border-radius: 30%;
+  margin-right: 20px;
+}
+
+.About-Summary {
+  text-align: center;
+  font-size: 2em;
+}
+
+.About-More-Title {
+  font-size: 2.5em;
+
+}
+
+.About-Extra-Info {
+  font-size: 1em;
+  margin: 2%;
+}
+
+.About-Download {
+  /* this is the download button image, round it out and crop */
+  border-radius: 10%;
+  width: 400px;
+  height: 130px;
+  object-fit: cover;
+}
+
+.Team {
+
+}
+
+.Team-Title {
+  font-size: 3em;
+}
+
+.Team-MemberCard {
+  display: inline-block;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.Team-MemberImage {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+  border-radius: 10%;
+  margin-top: 3%;
+  margin-right: 20px;
+  margin-left: auto;
+
+  float: left;
+}
+
+.Team-MemberBioButton{
+  /* make background transparent with no outline */
+  background-color: transparent;
+  border: none;
+  color: gainsboro;
+}
+
+.Team-MemberInfo {
+  display: inline;
+  /* align left */
+  text-align: left;
+}
+
+.Team-MemberName {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.Team-MemberRole {
+  font-size: 1em;
+}
+
+.Team-MemberBio {
+  font-size: 1em;
+}
+
+.Team-MemberLinkedin {
+  font-size: 1em;
+}
+
+.Team-MemberOther {
+  font-size: 1em;
+}
+
+a:link {
+  color: turquoise;
+}
+
+a:visited {
+  color: palevioletred;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: turquoise;
+}
+
+.Team-MemberEmail {
+  font-size: 1em;
+  margin-bottom: -1%;
+  margin-top: -1%;
+}
+
+.Team-MemberPhone {
+  font-size: 1em;
+  margin-bottom: -1%;
+}
+
+.Tutorial {
+  font-size: 1.5em;
+
+}
+
+.Tutorial-Title {
+  font-size: 3em;
+}
+
+li {
+  width: 100%;
+  margin-bottom: 2%;
 }
