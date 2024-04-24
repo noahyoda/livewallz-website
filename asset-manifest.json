@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/livewallz-website/static/css/main.b6f875ff.css",
-    "main.js": "/livewallz-website/static/js/main.c6c98e64.js",
+    "main.css": "/livewallz-website/static/css/main.da0c7ccc.css",
+    "main.js": "/livewallz-website/static/js/main.3c8aff4c.js",
     "reactPlayerYouTube.js": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js",
     "reactPlayerSoundCloud.js": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js",
     "reactPlayerVimeo.js": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js",
@@ -31,12 +31,13 @@
     "static/media/ExplorePageMenu.jpg": "/livewallz-website/static/media/ExplorePageMenu.c11a2a8c017fc630d778.jpg",
     "static/media/Help.jpg": "/livewallz-website/static/media/Help.05ab5cc998c4b21b9a95.jpg",
     "static/media/imanuel.png": "/livewallz-website/static/media/imanuel.60167726100ba18f46b6.png",
+    "static/media/qrcode.png": "/livewallz-website/static/media/qrcode.4f119162cb63a2ac07cc.png",
     "static/media/cameron.jpg": "/livewallz-website/static/media/cameron.52c356896600dab6eb75.jpg",
     "static/media/jo.jpg": "/livewallz-website/static/media/jo.c3cbbd1de6e1b9d21b93.jpg",
     "static/media/download.png": "/livewallz-website/static/media/download.131be360c5c7d62082da.png",
     "index.html": "/livewallz-website/index.html",
-    "main.b6f875ff.css.map": "/livewallz-website/static/css/main.b6f875ff.css.map",
-    "main.c6c98e64.js.map": "/livewallz-website/static/js/main.c6c98e64.js.map",
+    "main.da0c7ccc.css.map": "/livewallz-website/static/css/main.da0c7ccc.css.map",
+    "main.3c8aff4c.js.map": "/livewallz-website/static/js/main.3c8aff4c.js.map",
     "reactPlayerYouTube.15e4bf5d.chunk.js.map": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js.map",
     "reactPlayerSoundCloud.47d7a11e.chunk.js.map": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js.map",
     "reactPlayerVimeo.2e740841.chunk.js.map": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js.map",
@@ -54,7 +55,7 @@
     "453.5f7068c0.chunk.js.map": "/livewallz-website/static/js/453.5f7068c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6f875ff.css",
-    "static/js/main.c6c98e64.js"
+    "static/css/main.da0c7ccc.css",
+    "static/js/main.3c8aff4c.js"
   ]
 }
