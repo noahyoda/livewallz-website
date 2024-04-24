@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livewallz-website/static/css/main.b6f875ff.css",
-    "main.js": "/livewallz-website/static/js/main.0d71a44a.js",
+    "main.js": "/livewallz-website/static/js/main.c6c98e64.js",
     "reactPlayerYouTube.js": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js",
     "reactPlayerSoundCloud.js": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js",
     "reactPlayerVimeo.js": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "/livewallz-website/static/js/reactPlayerFilePlayer.4e3dfa72.chunk.js",
     "reactPlayerPreview.js": "/livewallz-website/static/js/reactPlayerPreview.08cab574.chunk.js",
     "static/js/453.5f7068c0.chunk.js": "/livewallz-website/static/js/453.5f7068c0.chunk.js",
-    "static/media/app-debug.apk": "/livewallz-website/static/media/app-debug.3ff086bb82666bcae026.apk",
+    "static/media/livewallz.apk": "/livewallz-website/static/media/livewallz.ffa909adf0c1cd636abf.apk",
     "static/media/ic_wallpaper.png": "/livewallz-website/static/media/ic_wallpaper.365cf6fca43c5d282f25.png",
     "static/media/PreviewSync.jpg": "/livewallz-website/static/media/PreviewSync.89292ce99dc483b1b1b3.jpg",
     "static/media/Preview_Visualization_Type.jpg": "/livewallz-website/static/media/Preview_Visualization_Type.247f30dda439f793843e.jpg",
@@ -36,7 +36,7 @@
     "static/media/download.png": "/livewallz-website/static/media/download.131be360c5c7d62082da.png",
     "index.html": "/livewallz-website/index.html",
     "main.b6f875ff.css.map": "/livewallz-website/static/css/main.b6f875ff.css.map",
-    "main.0d71a44a.js.map": "/livewallz-website/static/js/main.0d71a44a.js.map",
+    "main.c6c98e64.js.map": "/livewallz-website/static/js/main.c6c98e64.js.map",
     "reactPlayerYouTube.15e4bf5d.chunk.js.map": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js.map",
     "reactPlayerSoundCloud.47d7a11e.chunk.js.map": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js.map",
     "reactPlayerVimeo.2e740841.chunk.js.map": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.b6f875ff.css",
-    "static/js/main.0d71a44a.js"
+    "static/js/main.c6c98e64.js"
   ]
 }
