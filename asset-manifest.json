@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livewallz-website/static/css/main.da0c7ccc.css",
-    "main.js": "/livewallz-website/static/js/main.6c2551d2.js",
+    "main.js": "/livewallz-website/static/js/main.f24bdaa9.js",
     "reactPlayerYouTube.js": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js",
     "reactPlayerSoundCloud.js": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js",
     "reactPlayerVimeo.js": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js",
@@ -37,7 +37,7 @@
     "static/media/download.png": "/livewallz-website/static/media/download.131be360c5c7d62082da.png",
     "index.html": "/livewallz-website/index.html",
     "main.da0c7ccc.css.map": "/livewallz-website/static/css/main.da0c7ccc.css.map",
-    "main.6c2551d2.js.map": "/livewallz-website/static/js/main.6c2551d2.js.map",
+    "main.f24bdaa9.js.map": "/livewallz-website/static/js/main.f24bdaa9.js.map",
     "reactPlayerYouTube.15e4bf5d.chunk.js.map": "/livewallz-website/static/js/reactPlayerYouTube.15e4bf5d.chunk.js.map",
     "reactPlayerSoundCloud.47d7a11e.chunk.js.map": "/livewallz-website/static/js/reactPlayerSoundCloud.47d7a11e.chunk.js.map",
     "reactPlayerVimeo.2e740841.chunk.js.map": "/livewallz-website/static/js/reactPlayerVimeo.2e740841.chunk.js.map",
@@ -56,6 +56,6 @@
   },
   "entrypoints": [
     "static/css/main.da0c7ccc.css",
-    "static/js/main.6c2551d2.js"
+    "static/js/main.f24bdaa9.js"
   ]
 }
